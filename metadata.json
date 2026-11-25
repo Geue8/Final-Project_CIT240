@@ -1,0 +1,6 @@
+{
+  "name": "Professional Student Portfolio",
+  "description": "A clean, modern, and responsive multi-page student portfolio website showcasing personal background, educational journey, technical skills, academic projects, and experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
